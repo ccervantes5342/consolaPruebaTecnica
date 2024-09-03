@@ -1,0 +1,14 @@
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\bin\Debug\net8.0\PtecnicaConsola.exe
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\bin\Debug\net8.0\PtecnicaConsola.deps.json
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\bin\Debug\net8.0\PtecnicaConsola.runtimeconfig.json
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\bin\Debug\net8.0\PtecnicaConsola.dll
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\bin\Debug\net8.0\PtecnicaConsola.pdb
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.AssemblyInfoInputs.cache
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.AssemblyInfo.cs
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.dll
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\refint\PtecnicaConsola.dll
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.pdb
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\PtecnicaConsola.genruntimeconfig.cache
+C:\Users\desarrollador4\source\repos\PtecnicaConsola\obj\Debug\net8.0\ref\PtecnicaConsola.dll
